@@ -1,4 +1,4 @@
 <?php
-echo "salut";
+echo "Ceci st un tes t de perf";
 ?>
 
