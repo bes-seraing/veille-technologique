@@ -1,2 +1,4 @@
-test Jeremie
-blabla
+<?php
+echo "salut";
+?>
+
